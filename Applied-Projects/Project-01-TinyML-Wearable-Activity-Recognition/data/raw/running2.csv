@@ -1,4 +1,3 @@
-IMU initialized successfully.
 Timestamp(ms),AccX(g),AccY(g),AccZ(g),GyroX(dps),GyroY(dps),GyroZ(dps)
 9040,0.08,-0.06,1.02,25.27,203.74,106.20
 9060,0.27,-0.48,0.83,19.41,199.83,91.92
