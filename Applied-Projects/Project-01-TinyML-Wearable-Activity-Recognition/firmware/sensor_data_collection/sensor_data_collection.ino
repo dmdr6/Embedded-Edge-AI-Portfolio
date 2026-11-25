@@ -1,6 +1,6 @@
 #include <Arduino_BMI270_BMM150.h>
 
-// Define the target sampling interval in milliseconds.
+// Define the target sampling interval in milliseconds
 // 20ms = 50 Hz sampling frequency (1000 ms / 50 = 20ms)
 const unsigned long SAMPLING_INTERVAL_MS = 20;
 unsigned long lastSampleTime = 0;
