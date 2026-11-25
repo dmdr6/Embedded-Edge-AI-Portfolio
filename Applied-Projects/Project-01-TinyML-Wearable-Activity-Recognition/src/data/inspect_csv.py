@@ -34,5 +34,5 @@ for filename in files:
     print("\nData types:")
     print(df.dtypes)
 
-    print("\nDataset dimensions")
+    print("\nDataset dimensions:")
     print(df.shape)
