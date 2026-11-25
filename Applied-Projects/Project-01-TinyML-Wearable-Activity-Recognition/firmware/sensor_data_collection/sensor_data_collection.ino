@@ -21,7 +21,7 @@ void setup() {
   }
 
   Serial.println("IMU initialized successfully.");
-  Serial.println("Timestamp(ms),AccX(g),AccY(g),AccZ(g),GyroX(dps),GyroY(dps),GyroZ(dps)");
+  // Serial.println("Timestamp(ms),AccX(g),AccY(g),AccZ(g),GyroX(dps),GyroY(dps),GyroZ(dps)"); in python's file now
 }
 
 void loop() {
